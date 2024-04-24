@@ -20,7 +20,6 @@ Client-server chat applications are software systems that enable real-time commu
 •	TCP (Transmission Control Protocol):
 •	Provides reliable, connection-oriented communication.
 •	Ensures the ordered and error-free exchange of messages.
-
 •	UDP (User Datagram Protocol):
 •	Connectionless and operates in a best-effort mode.
 •	Faster but may result in message loss or disorder.
@@ -39,7 +38,7 @@ Client-server chat applications are software systems that enable real-time commu
 5. Message Routing:
 •	The server is responsible for routing messages from one client to another.
 •	It ensures that messages are delivered to the intended recipients.
-•	Message routing may involve maintaining a list of connected users and their associated sockets.
+
 
 ## Architecture:
 ## Client-Server Model:
@@ -72,8 +71,7 @@ User authentication mechanisms are essential to ensure secure and authorized acc
 
 Client-server chat applications are versatile tools that facilitate real-time communication between users over a network. They incorporate various components, including server-side and client-side elements, and must consider factors such as security, scalability, and concurrency. As technology continues to advance, client-server chat applications remain integral for collaborative communication in various domains.
 
-Client-server chat applications are foundational to real-time communication over networks. They incorporate principles of socket programming, communication protocols, and security mechanisms to provide a seamless user experience. Understanding the basics of client-server chat applications is essential for developers involved in networked application development, as they form the backbone of various collaborative communication systems. As technology evolves, chat applications continue to adapt, incorporating new features and technologies to enhance user interaction and connectivity.
-
+Client-server chat applications are foundational to real-time communication over networks. They incorporate principles of socket programming, communication protocols, and security mechanisms to provide a seamless user experience. Understanding the basics of client-server chat applications is essential for developers involved in networked application development, as they form the backbone of various collaborative communication systems.
 ## Result:
 Thus the study on Client Server Chat Applications has been performed
 
