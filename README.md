@@ -1,6 +1,4 @@
 # EXP : 1b - STUDY OF CLIENT SERVER CHAT APPLICATION
-## NAME : S MOHAMED AHSAN
-## REG NO : 212223240089
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
